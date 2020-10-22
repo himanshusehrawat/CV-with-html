@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family:Dancing Script, cursive;
+}
+h1 {
+
+  width: 10%;
+  margin: 0 auto 0 auto;
+
+}
+
+.cont {
+  background-color: #a6fff2;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+
+
+.bottomcloud
+{
+  position: absolute;
+  left: 400px;
+
+
+}
+
+h2
+{
+
+      font-family: Grenze Gotisch, cursive;
+
+}
+
+h3
+{
+  font-family: Grenze Gotisch, cursive;
+}
+
+p
+{
+  font-family:Montserrat, sans-serif;
+}
+
+.topcloud
+{
+
+padding-left: 500px;
+
+}
+
+.mine
+{
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  position: static;
+  top: 200px;
+}
